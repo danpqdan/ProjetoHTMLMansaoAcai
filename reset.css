@@ -24,3 +24,9 @@ ul{
 img{
     max-width: 100%;
 }
+
+li{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
